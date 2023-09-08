@@ -1,1 +1,1 @@
-# taylor-series
+# Taylor-Series-Visualizer
